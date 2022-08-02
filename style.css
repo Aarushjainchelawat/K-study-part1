@@ -1,0 +1,45 @@
+body
+{
+    background-color: #7a7a78;
+    margin-top: 50px;
+}
+
+
+img
+{
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.Result
+{
+    text-align: center;
+    color: white;
+}   
+
+b
+{
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.heading
+{
+    border-width: 2px;
+    border-color: aliceblue;
+}
+
+li
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h4
+{
+    background-color: white;
+    border-radius: 20px;
+    color: red;
+    padding: 10px;
+}
